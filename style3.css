@@ -1,0 +1,28 @@
+.container {
+    height: 90vh;
+    margin: 2rem;
+    display: grid;
+    grid-template-columns: 190px 190px;
+    grid-template-rows: 190px 190px;
+    
+  }
+  .cell {
+      color: white;
+      font-size: 40px;
+      text-align: center;
+      padding: 70px;
+  }
+
+     
+  .cell-1 {
+    background: deepskyblue;
+  }
+  .cell-2 {
+    background: orangered;
+  }
+  .cell-3 {
+    background: royalblue;
+  }
+  .cell-4 {
+    background: gold;
+  }
